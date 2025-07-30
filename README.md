@@ -45,8 +45,8 @@ I am committed to helping clients and organizations solve problems by providing 
 
 ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arruda1&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arruda1&layout=compact&theme=radical&hide_border=true)
 
 *(Note: These stats are dynamically generated and showcase my repository activity and language usage on GitHub.)*
 
